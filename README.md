@@ -1541,23 +1541,31 @@ mat.factorial(x) で x!を出力できる
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Union Find 勉強
 
+![image](https://user-images.githubusercontent.com/109026838/190854213-d9630190-7d4a-4a8d-aeed-38eb550b09e1.png)
 
+atcoder/class/union_find に保存済
+
+親がなにかをfindで出力、二つの親が同じかどうかの判定を sameで行う。
+
+また、unionで併合することが可能だが、例えば [0,1] と[2,3]を併合させるとき、0の下にもともとの子である1と新しい子になる2がつながるが、3の親は0でなく2のままである。findして更新するか、3を用いて新たにunionすればfindが実行されるので更新される。
+
+
+
+参考 : https://note.nkmk.me/python-union-find/
+
+       https://atcoder.jp/contests/atc001/tasks/unionfind_a
+
+
+
+# ATC 001 B  Union Find
+
+解答遷移 RE AC
+
+備考
+
+UnionFindのクラスを定義しているファイルをインポートしてコードを作成しても、そのまま提出はできない。atcoder側はそのファイルを知らないからだ。必ず提出するコードにクラスの定義をコピーする必要があることに気を付ける
 
 
 
