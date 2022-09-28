@@ -2855,6 +2855,7 @@ https://yunix-kyopro.hatenablog.com/entry/2021/07/11/020240?_ga=2.121161536.9506
 普通にTの最小値のindexでスタートするシミレーションを行うだけでは？ Nの制約も問題ないし、各探索もmin比較のO(1)なので十分高速と判断 AC
 
 
+
 # 0928 
 
 # 190A Very Very Primitive Game   diff 14
@@ -2867,22 +2868,20 @@ https://yunix-kyopro.hatenablog.com/entry/2021/07/11/020240?_ga=2.121161536.9506
 
 ➀　解法
 
+
 A>B A<B A=B の3パターンすべてに対して解答するのもよいが、A>B の勝者と A==B かつ C>1 の勝者が同じことから、A+C > B , A+C <= B の2パターンで完結できる
-                                                                                    
-  
-                                                                                    
+
+
+        
+        
+   
+
+
+
+
+
+
+
                                                                                     
                                                                                  
-                                                                                    
-                                                                                    
-                                                                                    
-                                                                                    
-                                                                                    
-                                                                                    
-                                                                                    
-                                                                                    
-                                                                                    
-                                                                                    
-                                                                                    
-                                                                                    
                                                                                     
