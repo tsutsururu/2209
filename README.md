@@ -2877,7 +2877,7 @@ https://yunix-kyopro.hatenablog.com/entry/2021/07/11/020240?_ga=2.121161536.9506
 aを文字列化してsortすれば g1(a),g2(a)が求まるのでこれをK回繰り返すだけで完了できると判断
 
 
-# 220D FG operation 664
+# 220D FG operation 664   済
 
 解答遷移 AC
 
@@ -2890,7 +2890,7 @@ aを文字列化してsortすれば g1(a),g2(a)が求まるのでこれをK回�
 dpしそう。実験し、可能だとわかり計算量もO(10* 10^5)なので提出 AC
 
 
-# ☆ 248C Dice sum  diff 748
+# ☆ 248C Dice sum  diff 748　　済
 
 諦め
 
