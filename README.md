@@ -578,7 +578,7 @@ ACできず諦め
 
 
 
-# ☆ 183D WaterHeater  diff 662
+# ☆ 183D WaterHeater  diff 662　済
 
 諦め
 
@@ -3287,7 +3287,7 @@ A=B の場合 0を出力したが、この時 Kは任意の値をとるので実
 
 
 
-#  ☆ 221D Online games  diff 832
+#  ☆ 221D Online games  diff 832　　済
 
 降参
 
