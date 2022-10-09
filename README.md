@@ -45,7 +45,7 @@ int(comb((L-1),11))としたためにL=200などの大きな値の処理が正�
 
 
 
-# 258C Rotation  2回目   diff 419    類題 199C
+# 258C Rotation  2回目   diff 419    類題 199C   済
 
 解答遷移 AC
 
