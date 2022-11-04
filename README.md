@@ -600,7 +600,7 @@ ACできず諦め
 
 
 
-# 226C Marial artist   diff 539
+# 226C Marial artist   diff 539   済
 
 解答遷移 AC
 
