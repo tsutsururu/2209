@@ -3386,7 +3386,7 @@ https://manabitimes.jp/math/1285
 
 ➁ フェルマーの小定理　 
 
-pが素数 かつ 互いに素 a,b に関して   a^p = a (mod p) 
+pが素数 かつ 互いに素 a,pに関して   a^p = a (mod p) 
 
 
 ・証明
