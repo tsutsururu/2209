@@ -465,7 +465,7 @@ https://www.momoyama-usagi.com/entry/info-algo-list#i-2
 
 
 
-# ☆　211C  chokudai  diff 559
+#　211C  chokudai  diff 559　済
 
 解答遷移 TLE 諦め
 
